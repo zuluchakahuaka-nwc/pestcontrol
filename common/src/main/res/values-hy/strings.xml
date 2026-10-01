@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tool_draw">✏️ Նկարել</string>
+    <string name="tool_label">🔖 Կողմնորոշիչ</string>
+    <string name="tool_marker">📍 Նշիչ</string>
+    <string name="add_floor">+ հարկ</string>
+    <string name="floor_name">%1$d հարկ</string>
+    <string name="undo_line">Հետարկել գիծը</string>
+    <string name="delete_floor_cd">Ջնջել հարկը</string>
+    <string name="label_dialog_title">Կողմնորոշիչի անվանումը</string>
+    <string name="label_dialog_hint">Օրինակ՝ խոհանոց, մուտք, պահեստ</string>
+    <string name="btn_add">Ավելացնել</string>
+    <string name="btn_cancel">Չեղարկել</string>
+    <string name="btn_save">Պահպանել</string>
+    <string name="btn_delete">Ջնջել</string>
+    <string name="edit_label_title">Կողմնորոշիչ</string>
+    <string name="delete_floor_title">Ջնջե՞լ հարկը</string>
+    <string name="delete_floor_text">«%1$s» հարկն ու դրա բոլոր նշումները կջնջվեն։</string>
+</resources>

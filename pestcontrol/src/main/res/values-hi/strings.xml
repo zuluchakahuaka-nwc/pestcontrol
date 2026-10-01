@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_objects">ऑब्जेक्ट</string>
+    <string name="tab_dosage">गणना</string>
+    <string name="tab_traps">जाल</string>
+    <string name="back">वापस</string>
+    <string name="fab_object">ऑब्जेक्ट</string>
+
+    <string name="dlg_new_object">नया ऑब्जेक्ट</string>
+    <string name="field_name">नाम</string>
+    <string name="field_address">पता</string>
+    <string name="btn_create">बनाएं</string>
+    <string name="dlg_delete_object_title">ऑब्जेक्ट हटाएं?</string>
+    <string name="dlg_delete_object_text">«%1$s» और उसके सभी प्लान और जाल हटा दिए जाएंगे।</string>
+    <string name="no_address">पता नहीं</string>
+    <string name="list_empty">कोई ऑब्जेक्ट नहीं।\nप्लान बनाने के लिए “+ ऑब्जेक्ट” दबाएं।</string>
+    <string name="card_summary">मंज़िलें: %1$d · जाल: %2$d</string>
+    <string name="plan_header_hint">प्लान उंगली से बनाएं · “संदर्भ बिंदु” — लेबल · “मार्कर” — जाल और बिल</string>
+
+    <string name="mt_gel">कॉकरोच जेल</string>
+    <string name="mt_glue">गोंद वाला जाल</string>
+    <string name="mt_bait">चारा स्टेशन</string>
+    <string name="mt_hole">बिल / कृंतक रास्ता</string>
+
+    <string name="pest_cockroach">कॉकरोच</string>
+    <string name="pest_rat">चूहे</string>
+    <string name="pest_mouse">मूस</string>
+    <string name="level_low">कम</string>
+    <string name="level_medium">मध्यम</string>
+    <string name="level_high">अधिक</string>
+    <string name="lbl_pest">कीट</string>
+    <string name="lbl_level">संक्रमण स्तर</string>
+    <string name="field_area">कमरे का क्षेत्रफल, म²</string>
+    <string name="area_prompt">गणना पाने के लिए क्षेत्रफल दर्ज करें।</string>
+    <string name="dosage_disclaimer">गणना अनुमानित है, सामान्य मात्रा दरों पर आधारित। उत्पाद लेबल और वर्तमान सैनिटरी नियमों का पालन करें।</string>
+
+    <string name="unit_g">%1$d ग्रा</string>
+    <string name="unit_kg">%1$s किग्रा</string>
+    <string name="unit_l">%1$s ली</string>
+    <string name="unit_pcs">%1$d पीस</string>
+
+    <string name="row_gel_title">कॉकरोच जेल</string>
+    <string name="hint_gel">%2$s संक्रमण पर 100 म² के लिए %1$d ग्राम</string>
+    <string name="row_points_gel">जेल लगाने के बिंदु</string>
+    <string name="hint_points_gel">परिधि पर हर ~2 मीटर (~%1$d मीटर)</string>
+    <string name="row_solution">इमल्शन कार्य घोल</string>
+    <string name="hint_solution">%1$d मिली/म²; सांद्रता — उत्पाद लेबल अनुसार (आमतौर पर 0.5–1%%)</string>
+    <string name="row_glue">गोंद जाल (निगरानी)</string>
+    <string name="hint_glue">%1$d म² पर 1 जाल</string>
+    <string name="row_points">चारा बिंदु</string>
+    <string name="hint_points_rat">परिधि पर हर ~8 मीटर, बिलों और रास्तों के पास</string>
+    <string name="hint_points_mouse">परिधि पर हर ~4 मीटर, दीवारों के साथ</string>
+    <string name="row_bait_rat">कृंतकनाशी (पहली रखी)</string>
+    <string name="hint_bait_rat">प्रति बिंदु 100 ग्राम अनाज चारा या ब्लॉक</string>
+    <string name="row_bait_mouse">कृंतकनाशी (पहली रखी)</string>
+    <string name="hint_bait_mouse">प्रति बिंदु 25 ग्राम चारा</string>
+    <string name="row_containers_rat">चारा कंटेनर (स्टेशन)</string>
+    <string name="hint_containers_rat">प्रति बिंदु एक कंटेनर</string>
+    <string name="row_containers_mouse">कंटेनर / स्टेशन</string>
+    <string name="hint_containers_mouse">प्रति बिंदु एक</string>
+
+    <string name="traps_title">जाल डेटाबेस</string>
+    <string name="traps_total">कुल लगाए: %1$d · स्थिति या टिप्पणी बदलने के लिए जाल पर टैप करें</string>
+    <string name="filter_all_types">सभी प्रकार</string>
+    <string name="filter_any_status">कोई भी स्थिति</string>
+    <string name="traps_empty">अभी कोई जाल नहीं लगाया गया। ऑब्जेक्ट प्लान खोलें और “मार्कर” टूल चुनें।</string>
+    <string name="installed">लगाया गया: %1$s</string>
+    <string name="status_active">सक्रिय</string>
+    <string name="status_replace">बदलने के लिए</string>
+    <string name="status_removed">हटाया गया</string>
+    <string name="dlg_note">टिप्पणी</string>
+</resources>

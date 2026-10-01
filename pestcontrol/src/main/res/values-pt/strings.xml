@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_objects">Objetos</string>
+    <string name="tab_dosage">Cálculo</string>
+    <string name="tab_traps">Armadilhas</string>
+    <string name="back">Voltar</string>
+    <string name="fab_object">Objeto</string>
+
+    <string name="dlg_new_object">Novo objeto</string>
+    <string name="field_name">Nome</string>
+    <string name="field_address">Endereço</string>
+    <string name="btn_create">Criar</string>
+    <string name="dlg_delete_object_title">Excluir objeto?</string>
+    <string name="dlg_delete_object_text">«%1$s» e todos os seus planos e armadilhas serão excluídos.</string>
+    <string name="no_address">sem endereço</string>
+    <string name="list_empty">Nenhum objeto.\nToque em “+ Objeto” para criar um plano.</string>
+    <string name="card_summary">Andares: %1$d · Armadilhas: %2$d</string>
+    <string name="plan_header_hint">Desenhe o plano com o dedo · “Referência” — rótulos · “Marcador” — armadilhas e tocas</string>
+
+    <string name="mt_gel">Gel para baratas</string>
+    <string name="mt_glue">Armadilha de cola</string>
+    <string name="mt_bait">Porta-iscas</string>
+    <string name="mt_hole">Toca / caminho de roedores</string>
+
+    <string name="pest_cockroach">Baratas</string>
+    <string name="pest_rat">Ratos</string>
+    <string name="pest_mouse">Camundongos</string>
+    <string name="level_low">Baixa</string>
+    <string name="level_medium">Média</string>
+    <string name="level_high">Alta</string>
+    <string name="lbl_pest">Praga</string>
+    <string name="lbl_level">Infestação</string>
+    <string name="field_area">Área do local, m²</string>
+    <string name="area_prompt">Informe a área do local para obter o cálculo.</string>
+    <string name="dosage_disclaimer">Cálculo aproximado, com base em taxas típicas de aplicação. Siga o rótulo do produto e a legislação sanitária vigente.</string>
+
+    <string name="unit_g">%1$d g</string>
+    <string name="unit_kg">%1$s kg</string>
+    <string name="unit_l">%1$s L</string>
+    <string name="unit_pcs">%1$d un</string>
+
+    <string name="row_gel_title">Gel para baratas</string>
+    <string name="hint_gel">taxa de %1$d g por 100 m² com infestação %2$s</string>
+    <string name="row_points_gel">Pontos de aplicação do gel</string>
+    <string name="hint_points_gel">a cada ~2 m pelo perímetro (~%1$d m)</string>
+    <string name="row_solution">Calda de aplicação (emulsão)</string>
+    <string name="hint_solution">%1$d ml/m²; concentrado — conforme o rótulo (geralmente 0,5–1%%)</string>
+    <string name="row_glue">Armadilhas de cola (monitoramento)</string>
+    <string name="hint_glue">1 armadilha por %1$d m²</string>
+    <string name="row_points">Pontos de isca</string>
+    <string name="hint_points_rat">a cada ~8 m pelo perímetro, perto de tocas e caminhos</string>
+    <string name="hint_points_mouse">a cada ~4 m pelo perímetro, ao longo das paredes</string>
+    <string name="row_bait_rat">Rodenticida (primeira aplicação)</string>
+    <string name="hint_bait_rat">100 g de isca em grãos ou blocos por ponto</string>
+    <string name="row_bait_mouse">Rodenticida (primeira aplicação)</string>
+    <string name="hint_bait_mouse">25 g de isca por ponto</string>
+    <string name="row_containers_rat">Porta-iscas (estações)</string>
+    <string name="hint_containers_rat">um porta-iscas por ponto</string>
+    <string name="row_containers_mouse">Porta-iscas / estações</string>
+    <string name="hint_containers_mouse">um por ponto</string>
+
+    <string name="traps_title">Banco de armadilhas</string>
+    <string name="traps_total">Total instaladas: %1$d · Toque em uma armadilha para alterar o status ou a observação</string>
+    <string name="filter_all_types">Todos os tipos</string>
+    <string name="filter_any_status">Qualquer status</string>
+    <string name="traps_empty">Nenhuma armadilha instalada. Abra o plano de um objeto e selecione a ferramenta “Marcador”.</string>
+    <string name="installed">Instalada: %1$s</string>
+    <string name="status_active">Ativa</string>
+    <string name="status_replace">Para substituir</string>
+    <string name="status_removed">Retirada</string>
+    <string name="dlg_note">Observação</string>
+</resources>

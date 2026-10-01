@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tool_draw">✏️ Рисовать</string>
+    <string name="tool_label">🔤 Ориентир</string>
+    <string name="tool_marker">📍 Маркер</string>
+    <string name="add_floor">+ этаж</string>
+    <string name="floor_name">Этаж %1$d</string>
+    <string name="undo_line">Отменить линию</string>
+    <string name="delete_floor_cd">Удалить этаж</string>
+    <string name="label_dialog_title">Название ориентира</string>
+    <string name="label_dialog_hint">Например: кухня, вход, склад</string>
+    <string name="btn_add">Добавить</string>
+    <string name="btn_cancel">Отмена</string>
+    <string name="btn_save">Сохранить</string>
+    <string name="btn_delete">Удалить</string>
+    <string name="edit_label_title">Ориентир</string>
+    <string name="delete_floor_title">Удалить этаж?</string>
+    <string name="delete_floor_text">«%1$s» и вся его разметка будут удалены.</string>
+</resources>

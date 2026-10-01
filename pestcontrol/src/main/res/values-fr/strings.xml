@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_objects">Objets</string>
+    <string name="tab_dosage">Calcul</string>
+    <string name="tab_traps">Pièges</string>
+    <string name="back">Retour</string>
+    <string name="fab_object">Objet</string>
+
+    <string name="dlg_new_object">Nouvel objet</string>
+    <string name="field_name">Nom</string>
+    <string name="field_address">Adresse</string>
+    <string name="btn_create">Créer</string>
+    <string name="dlg_delete_object_title">Supprimer l\'objet ?</string>
+    <string name="dlg_delete_object_text">« %1$s » et tous ses plans et pièges seront supprimés.</string>
+    <string name="no_address">sans adresse</string>
+    <string name="list_empty">Aucun objet.\nAppuyez sur « + Objet » pour créer un plan.</string>
+    <string name="card_summary">Étages : %1$d · Pièges : %2$d</string>
+    <string name="plan_header_hint">Dessinez le plan du doigt · « Repère » — étiquettes · « Marqueur » — pièges et trous</string>
+
+    <string name="mt_gel">Gel anti-cacafards</string>
+    <string name="mt_glue">Piège à colle</string>
+    <string name="mt_bait">Poste d\'appât</string>
+    <string name="mt_hole">Terrier / passage des rongeurs</string>
+
+    <string name="pest_cockroach">Cafards</string>
+    <string name="pest_rat">Rats</string>
+    <string name="pest_mouse">Souris</string>
+    <string name="level_low">Faible</string>
+    <string name="level_medium">Moyenne</string>
+    <string name="level_high">Élevée</string>
+    <string name="lbl_pest">Nuisible</string>
+    <string name="lbl_level">Infestation</string>
+    <string name="field_area">Surface, m²</string>
+    <string name="area_prompt">Indiquez la surface pour obtenir le calcul.</string>
+    <string name="dosage_disclaimer">Calcul approximatif selon les doses d\'usage. Suivez l\'étiquette du produit et la réglementation sanitaire en vigueur.</string>
+
+    <string name="unit_g">%1$d g</string>
+    <string name="unit_kg">%1$s kg</string>
+    <string name="unit_l">%1$s L</string>
+    <string name="unit_pcs">%1$d p.</string>
+
+    <string name="row_gel_title">Gel anti-cacafards</string>
+    <string name="hint_gel">dose de %1$d g pour 100 m² en cas d\'infestation %2$s</string>
+    <string name="row_points_gel">Points d\'application du gel</string>
+    <string name="hint_points_gel">tous les ~2 m le long du périmètre (~%1$d m)</string>
+    <string name="row_solution">Solution de travail de l\'émulsion</string>
+    <string name="hint_solution">%1$d ml/m² ; concentré — selon l\'étiquette (généralement 0,5–1 %%)</string>
+    <string name="row_glue">Pièges à colle (surveillance)</string>
+    <string name="hint_glue">1 piège pour %1$d m²</string>
+    <string name="row_points">Points d\'appât</string>
+    <string name="hint_points_rat">tous les ~8 m le long du périmètre, près des terriers et passages</string>
+    <string name="hint_points_mouse">tous les ~4 m le long du périmètre, le long des murs</string>
+    <string name="row_bait_rat">Rodenticide (première pose)</string>
+    <string name="hint_bait_rat">100 g d\'appât en grains ou blocs par point</string>
+    <string name="row_bait_mouse">Rodenticide (première pose)</string>
+    <string name="hint_bait_mouse">25 g d\'appât par point</string>
+    <string name="row_containers_rat">Postes d\'appât (stations)</string>
+    <string name="hint_containers_rat">un poste par point</string>
+    <string name="row_containers_mouse">Postes / stations</string>
+    <string name="hint_containers_mouse">un par point</string>
+
+    <string name="traps_title">Base des pièges</string>
+    <string name="traps_total">Total posés : %1$d · Touchez un piège pour modifier son état ou sa note</string>
+    <string name="filter_all_types">Tous les types</string>
+    <string name="filter_any_status">Tout état</string>
+    <string name="traps_empty">Aucun piège posé. Ouvrez le plan d\'un objet et choisissez l\'outil « Marqueur ».</string>
+    <string name="installed">Posé : %1$s</string>
+    <string name="status_active">Actif</string>
+    <string name="status_replace">À remplacer</string>
+    <string name="status_removed">Retiré</string>
+    <string name="dlg_note">Note</string>
+</resources>

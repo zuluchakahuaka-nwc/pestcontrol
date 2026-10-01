@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_objects">Objetos</string>
+    <string name="tab_dosage">Cálculo</string>
+    <string name="tab_traps">Trampas</string>
+    <string name="back">Atrás</string>
+    <string name="fab_object">Objeto</string>
+
+    <string name="dlg_new_object">Nuevo objeto</string>
+    <string name="field_name">Nombre</string>
+    <string name="field_address">Dirección</string>
+    <string name="btn_create">Crear</string>
+    <string name="dlg_delete_object_title">¿Eliminar objeto?</string>
+    <string name="dlg_delete_object_text">«%1$s» y todos sus planes y trampas serán eliminados.</string>
+    <string name="no_address">sin dirección</string>
+    <string name="list_empty">No hay objetos.\nPulse «+ Objeto» para crear un plan.</string>
+    <string name="card_summary">Plantas: %1$d · Trampas: %2$d</string>
+    <string name="plan_header_hint">Dibuje el plan con el dedo · «Referencia» — etiquetas · «Marcador» — trampas y madrigueras</string>
+
+    <string name="mt_gel">Gel para cucarachas</string>
+    <string name="mt_glue">Trampa de pegamento</string>
+    <string name="mt_bait">Portacebos</string>
+    <string name="mt_hole">Madriguera / paso de roedores</string>
+
+    <string name="pest_cockroach">Cucarachas</string>
+    <string name="pest_rat">Ratas</string>
+    <string name="pest_mouse">Ratones</string>
+    <string name="level_low">Baja</string>
+    <string name="level_medium">Media</string>
+    <string name="level_high">Alta</string>
+    <string name="lbl_pest">Plaga</string>
+    <string name="lbl_level">Infestación</string>
+    <string name="field_area">Superficie, m²</string>
+    <string name="area_prompt">Indique la superficie para obtener el cálculo.</string>
+    <string name="dosage_disclaimer">Cálculo orientativo según normas típicas de aplicación. Siga la etiqueta del producto y la normativa sanitaria vigente.</string>
+
+    <string name="unit_g">%1$d g</string>
+    <string name="unit_kg">%1$s kg</string>
+    <string name="unit_l">%1$s L</string>
+    <string name="unit_pcs">%1$d ud</string>
+
+    <string name="row_gel_title">Gel para cucarachas</string>
+    <string name="hint_gel">norma de %1$d g por 100 m² con infestación %2$s</string>
+    <string name="row_points_gel">Puntos de aplicación del gel</string>
+    <string name="hint_points_gel">cada ~2 m por el perímetro (~%1$d m)</string>
+    <string name="row_solution">Solución de trabajo de la emulsión</string>
+    <string name="hint_solution">%1$d ml/m²; concentrado — según la etiqueta (normalmente 0,5–1%%)</string>
+    <string name="row_glue">Trampas de pegamento (monitoreo)</string>
+    <string name="hint_glue">1 trampa por %1$d m²</string>
+    <string name="row_points">Puntos de cebo</string>
+    <string name="hint_points_rat">cada ~8 m por el perímetro, cerca de madrigueras y pasillos</string>
+    <string name="hint_points_mouse">cada ~4 m por el perímetro, a lo largo de las paredes</string>
+    <string name="row_bait_rat">Rodenticida (primera colocación)</string>
+    <string name="hint_bait_rat">100 g de cebo en grano o bloques por punto</string>
+    <string name="row_bait_mouse">Rodenticida (primera colocación)</string>
+    <string name="hint_bait_mouse">25 g de cebo por punto</string>
+    <string name="row_containers_rat">Portacebos (estaciones)</string>
+    <string name="hint_containers_rat">un portacebos por punto</string>
+    <string name="row_containers_mouse">Portacebos / estaciones</string>
+    <string name="hint_containers_mouse">uno por punto</string>
+
+    <string name="traps_title">Base de trampas</string>
+    <string name="traps_total">Total colocadas: %1$d · Pulse una trampa para cambiar su estado o nota</string>
+    <string name="filter_all_types">Todos los tipos</string>
+    <string name="filter_any_status">Cualquier estado</string>
+    <string name="traps_empty">Aún no hay trampas. Abra el plan de un objeto y elija la herramienta «Marcador».</string>
+    <string name="installed">Colocada: %1$s</string>
+    <string name="status_active">Activa</string>
+    <string name="status_replace">Para reemplazar</string>
+    <string name="status_removed">Retirada</string>
+    <string name="dlg_note">Nota</string>
+</resources>

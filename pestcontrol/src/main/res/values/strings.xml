@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ДезКонтроль</string>
+
+    <string name="tab_objects">Объекты</string>
+    <string name="tab_dosage">Расчёт</string>
+    <string name="tab_traps">Ловушки</string>
+    <string name="back">Назад</string>
+    <string name="fab_object">Объект</string>
+
+    <string name="dlg_new_object">Новый объект</string>
+    <string name="field_name">Название</string>
+    <string name="field_address">Адрес</string>
+    <string name="btn_create">Создать</string>
+    <string name="dlg_delete_object_title">Удалить объект?</string>
+    <string name="dlg_delete_object_text">«%1$s» и все его планы и ловушки будут удалены.</string>
+    <string name="no_address">без адреса</string>
+    <string name="list_empty">Нет объектов.\nНажмите «+ Объект», чтобы создать план.</string>
+    <string name="card_summary">Этажей: %1$d · Ловушек: %2$d</string>
+    <string name="plan_header_hint">Рисуйте план пальцем · «Ориентир» — подписи · «Маркер» — ловушки и норы</string>
+
+    <string name="mt_gel">Гель от тараканов</string>
+    <string name="mt_glue">Клеевая ловушка</string>
+    <string name="mt_bait">Контейнер с приманкой</string>
+    <string name="mt_hole">Нора / путь грызунов</string>
+
+    <string name="pest_cockroach">Тараканы</string>
+    <string name="pest_rat">Крысы</string>
+    <string name="pest_mouse">Мыши</string>
+    <string name="level_low">Низкая</string>
+    <string name="level_medium">Средняя</string>
+    <string name="level_high">Высокая</string>
+    <string name="lbl_pest">Вредитель</string>
+    <string name="lbl_level">Заражённость</string>
+    <string name="field_area">Площадь помещения, м²</string>
+    <string name="area_prompt">Укажите площадь помещения, чтобы получить расчёт.</string>
+    <string name="dosage_disclaimer">Расчёт ориентировочный, по типовым нормам расхода. Руководствуйтесь инструкцией к препарату и действующими СанПиН.</string>
+
+    <string name="unit_g">%1$d г</string>
+    <string name="unit_kg">%1$s кг</string>
+    <string name="unit_l">%1$s л</string>
+    <string name="unit_pcs">%1$d шт</string>
+
+    <string name="row_gel_title">Гель от тараканов</string>
+    <string name="hint_gel">норма %1$d г на 100 м² при %2$s заражённости</string>
+    <string name="row_points_gel">Точек нанесения геля</string>
+    <string name="hint_points_gel">каждые ~2 м по периметру (~%1$d м)</string>
+    <string name="row_solution">Рабочий раствор эмульсии</string>
+    <string name="hint_solution">по %1$d мл/м²; концентрат — по инструкции препарата (обычно 0,5–1%%)</string>
+    <string name="row_glue">Клеевые ловушки (мониторинг)</string>
+    <string name="hint_glue">1 ловушка на %1$d м²</string>
+    <string name="row_points">Точки приманки</string>
+    <string name="hint_points_rat">каждые ~8 м по периметру, у нор и путей перемещения</string>
+    <string name="hint_points_mouse">каждые ~4 м по периметру, вдоль стен</string>
+    <string name="row_bait_rat">Родентицид (первая закладка)</string>
+    <string name="hint_bait_rat">по 100 г зерновой приманки или брикетов на точку</string>
+    <string name="row_bait_mouse">Родентицид (первая закладка)</string>
+    <string name="hint_bait_mouse">по 25 г приманки на точку</string>
+    <string name="row_containers_rat">Контейнеры (ТРК / станции)</string>
+    <string name="hint_containers_rat">по одному контейнеру на точку</string>
+    <string name="row_containers_mouse">Контейнеры / станции</string>
+    <string name="hint_containers_mouse">по одному на точку</string>
+
+    <string name="traps_title">База ловушек</string>
+    <string name="traps_total">Всего расставлено: %1$d · Нажмите на ловушку, чтобы изменить статус или заметку</string>
+    <string name="filter_all_types">Все типы</string>
+    <string name="filter_any_status">Любой статус</string>
+    <string name="traps_empty">Ловушки ещё не расставлены. Откройте план объекта и выберите инструмент «Маркер».</string>
+    <string name="installed">Установлена: %1$s</string>
+    <string name="status_active">Активна</string>
+    <string name="status_replace">На замене</string>
+    <string name="status_removed">Снята</string>
+    <string name="dlg_note">Заметка</string>
+</resources>

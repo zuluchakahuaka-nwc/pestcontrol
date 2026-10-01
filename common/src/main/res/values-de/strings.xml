@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tool_draw">✏️ Zeichnen</string>
+    <string name="tool_label">🔖 Orientierungspunkt</string>
+    <string name="tool_marker">📍 Markierung</string>
+    <string name="add_floor">+ Etage</string>
+    <string name="floor_name">Etage %1$d</string>
+    <string name="undo_line">Linie rückgängig machen</string>
+    <string name="delete_floor_cd">Etage löschen</string>
+    <string name="label_dialog_title">Name des Orientierungspunkts</string>
+    <string name="label_dialog_hint">z. B. Küche, Eingang, Lager</string>
+    <string name="btn_add">Hinzufügen</string>
+    <string name="btn_cancel">Abbrechen</string>
+    <string name="btn_save">Speichern</string>
+    <string name="btn_delete">Löschen</string>
+    <string name="edit_label_title">Orientierungspunkt</string>
+    <string name="delete_floor_title">Etage löschen?</string>
+    <string name="delete_floor_text">„%1$s“ und die gesamte Markierung werden gelöscht.</string>
+</resources>

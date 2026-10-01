@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tool_draw">✏️ Desenhar</string>
+    <string name="tool_label">🔖 Referência</string>
+    <string name="tool_marker">📍 Marcador</string>
+    <string name="add_floor">+ andar</string>
+    <string name="floor_name">Andar %1$d</string>
+    <string name="undo_line">Desfazer linha</string>
+    <string name="delete_floor_cd">Excluir andar</string>
+    <string name="label_dialog_title">Nome da referência</string>
+    <string name="label_dialog_hint">Ex.: cozinha, entrada, depósito</string>
+    <string name="btn_add">Adicionar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_save">Salvar</string>
+    <string name="btn_delete">Excluir</string>
+    <string name="edit_label_title">Referência</string>
+    <string name="delete_floor_title">Excluir andar?</string>
+    <string name="delete_floor_text">«%1$s» e toda a sua marcação serão excluídos.</string>
+</resources>

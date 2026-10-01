@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tool_draw">✏️ Dibujar</string>
+    <string name="tool_label">🔖 Referencia</string>
+    <string name="tool_marker">📍 Marcador</string>
+    <string name="add_floor">+ planta</string>
+    <string name="floor_name">Planta %1$d</string>
+    <string name="undo_line">Deshacer línea</string>
+    <string name="delete_floor_cd">Eliminar planta</string>
+    <string name="label_dialog_title">Nombre del punto de referencia</string>
+    <string name="label_dialog_hint">P. ej.: cocina, entrada, almacén</string>
+    <string name="btn_add">Añadir</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_delete">Eliminar</string>
+    <string name="edit_label_title">Referencia</string>
+    <string name="delete_floor_title">¿Eliminar planta?</string>
+    <string name="delete_floor_text">«%1$s» y toda su marcación serán eliminados.</string>
+</resources>

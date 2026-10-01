@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tool_draw">✏️ Draw</string>
+    <string name="tool_label">🔖 Landmark</string>
+    <string name="tool_marker">📍 Marker</string>
+    <string name="add_floor">+ floor</string>
+    <string name="floor_name">Floor %1$d</string>
+    <string name="undo_line">Undo line</string>
+    <string name="delete_floor_cd">Delete floor</string>
+    <string name="label_dialog_title">Landmark name</string>
+    <string name="label_dialog_hint">e.g. kitchen, entrance, warehouse</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_delete">Delete</string>
+    <string name="edit_label_title">Landmark</string>
+    <string name="delete_floor_title">Delete floor?</string>
+    <string name="delete_floor_text">“%1$s” and all its markings will be deleted.</string>
+</resources>

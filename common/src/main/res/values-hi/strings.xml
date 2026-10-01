@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tool_draw">✏️ बनाएं</string>
+    <string name="tool_label">🔖 संदर्भ बिंदु</string>
+    <string name="tool_marker">📍 मार्कर</string>
+    <string name="add_floor">+ मंज़िल</string>
+    <string name="floor_name">मंज़िल %1$d</string>
+    <string name="undo_line">रेखा पूर्ववत करें</string>
+    <string name="delete_floor_cd">मंज़िल हटाएं</string>
+    <string name="label_dialog_title">संदर्भ बिंदु का नाम</string>
+    <string name="label_dialog_hint">जैसे: रसोई, प्रवेश द्वार, गोदाम</string>
+    <string name="btn_add">जोड़ें</string>
+    <string name="btn_cancel">रद्द करें</string>
+    <string name="btn_save">सहेजें</string>
+    <string name="btn_delete">हटाएं</string>
+    <string name="edit_label_title">संदर्भ बिंदु</string>
+    <string name="delete_floor_title">मंज़िल हटाएं?</string>
+    <string name="delete_floor_text">«%1$s» और उसकी सभी मार्किंग हटा दी जाएंगी।</string>
+</resources>

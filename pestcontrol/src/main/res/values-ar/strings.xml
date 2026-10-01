@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_objects">الكائنات</string>
+    <string name="tab_dosage">الحساب</string>
+    <string name="tab_traps">المصائد</string>
+    <string name="back">رجوع</string>
+    <string name="fab_object">كائن</string>
+
+    <string name="dlg_new_object">كائن جديد</string>
+    <string name="field_name">الاسم</string>
+    <string name="field_address">العنوان</string>
+    <string name="btn_create">إنشاء</string>
+    <string name="dlg_delete_object_title">حذف الكائن؟</string>
+    <string name="dlg_delete_object_text">سيتم حذف «%1$s» وجميع مخططاته ومصائده.</string>
+    <string name="no_address">بدون عنوان</string>
+    <string name="list_empty">لا توجد كائنات بعد.\nاضغط على «+ كائن» لإنشاء مخطط.</string>
+    <string name="card_summary">الطوابق: %1$d · المصائد: %2$d</string>
+    <string name="plan_header_hint">ارسم المخطط بإصبعك · «معلم» — تسميات · «علامة» — مصائد وجحور</string>
+
+    <string name="mt_gel">جل الصراصير</string>
+    <string name="mt_glue">مصيدة لاصقة</string>
+    <string name="mt_bait">محطة طُعم</string>
+    <string name="mt_hole">جحر / مسار القوارض</string>
+
+    <string name="pest_cockroach">الصراصير</string>
+    <string name="pest_rat">الجرذان</string>
+    <string name="pest_mouse">الفئران</string>
+    <string name="level_low">منخفضة</string>
+    <string name="level_medium">متوسطة</string>
+    <string name="level_high">عالية</string>
+    <string name="lbl_pest">الآفة</string>
+    <string name="lbl_level">مستوى الإصابة</string>
+    <string name="field_area">مساحة المكان، م²</string>
+    <string name="area_prompt">أدخل المساحة للحصول على الحساب.</string>
+    <string name="dosage_disclaimer">الحساب تقريبي وفق معدلات الاستخدام المعتادة. التزم بملصق المنتج واللوائح الصحية السارية.</string>
+
+    <string name="unit_g">%1$d غ</string>
+    <string name="unit_kg">%1$s كغ</string>
+    <string name="unit_l">%1$s ل</string>
+    <string name="unit_pcs">%1$d حبة</string>
+
+    <string name="row_gel_title">جل الصراصير</string>
+    <string name="hint_gel">معدل %1$d غ لكل 100 م² عند إصابة %2$s</string>
+    <string name="row_points_gel">نقاط وضع الجل</string>
+    <string name="hint_points_gel">كل ~2 م على طول المحيط (~%1$d م)</string>
+    <string name="row_solution">محلول العمل (المستحلب)</string>
+    <string name="hint_solution">%1$d مل/م²؛ المركّز — حسب ملصق المنتج (عادة 0.5–1%%)</string>
+    <string name="row_glue">مصائد لاصقة (مراقبة)</string>
+    <string name="hint_glue">مصيدة واحدة لكل %1$d م²</string>
+    <string name="row_points">نقاط الطُعم</string>
+    <string name="hint_points_rat">كل ~8 م على طول المحيط، قرب الجحور والمسارات</string>
+    <string name="hint_points_mouse">كل ~4 م على طول المحيط، بمحاذاة الجدران</string>
+    <string name="row_bait_rat">مبيد قوارض (وضع أول)</string>
+    <string name="hint_bait_rat">100 غ من طُعم الحبوب أو القوالب لكل نقطة</string>
+    <string name="row_bait_mouse">مبيد قوارض (وضع أول)</string>
+    <string name="hint_bait_mouse">25 غ من الطُعم لكل نقطة</string>
+    <string name="row_containers_rat">محطات الطُعم</string>
+    <string name="hint_containers_rat">محطة واحدة لكل نقطة</string>
+    <string name="row_containers_mouse">محطات / حاويات</string>
+    <string name="hint_containers_mouse">واحدة لكل نقطة</string>
+
+    <string name="traps_title">قاعدة المصائد</string>
+    <string name="traps_total">الإجمالي: %1$d · اضغط على مصيدة لتغيير حالتها أو ملاحظتها</string>
+    <string name="filter_all_types">كل الأنواع</string>
+    <string name="filter_any_status">أي حالة</string>
+    <string name="traps_empty">لم يتم وضع مصائد بعد. افتح مخطط كائن واختر أداة «علامة».</string>
+    <string name="installed">التاريخ: %1$s</string>
+    <string name="status_active">فعّالة</string>
+    <string name="status_replace">للاستبدال</string>
+    <string name="status_removed">مزالة</string>
+    <string name="dlg_note">ملاحظة</string>
+</resources>

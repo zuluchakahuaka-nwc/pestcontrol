@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_objects">Objekte</string>
+    <string name="tab_dosage">Berechnung</string>
+    <string name="tab_traps">Fallen</string>
+    <string name="back">Zurück</string>
+    <string name="fab_object">Objekt</string>
+
+    <string name="dlg_new_object">Neues Objekt</string>
+    <string name="field_name">Name</string>
+    <string name="field_address">Adresse</string>
+    <string name="btn_create">Erstellen</string>
+    <string name="dlg_delete_object_title">Objekt löschen?</string>
+    <string name="dlg_delete_object_text">„%1$s“ und alle zugehörigen Pläne und Fallen werden gelöscht.</string>
+    <string name="no_address">ohne Adresse</string>
+    <string name="list_empty">Keine Objekte.\nTippen Sie auf „+ Objekt“, um einen Plan zu erstellen.</string>
+    <string name="card_summary">Etagen: %1$d · Fallen: %2$d</string>
+    <string name="plan_header_hint">Plan mit dem Finger zeichnen · „Orientierungspunkt“ — Beschriftungen · „Markierung“ — Fallen und Baue</string>
+
+    <string name="mt_gel">Kakerlaken-Gel</string>
+    <string name="mt_glue">Klebefalle</string>
+    <string name="mt_bait">Köderbox</string>
+    <string name="mt_hole">Bau / Laufweg der Nager</string>
+
+    <string name="pest_cockroach">Kakerlaken</string>
+    <string name="pest_rat">Ratten</string>
+    <string name="pest_mouse">Mäuse</string>
+    <string name="level_low">Gering</string>
+    <string name="level_medium">Mittel</string>
+    <string name="level_high">Hoch</string>
+    <string name="lbl_pest">Schädling</string>
+    <string name="lbl_level">Befall</string>
+    <string name="field_area">Fläche, m²</string>
+    <string name="area_prompt">Geben Sie die Fläche ein, um die Berechnung zu erhalten.</string>
+    <string name="dosage_disclaimer">Ungefähre Berechnung nach typischen Aufwandsmengen. Beachten Sie das Produktetikett und die geltenden Hygienevorschriften.</string>
+
+    <string name="unit_g">%1$d g</string>
+    <string name="unit_kg">%1$s kg</string>
+    <string name="unit_l">%1$s L</string>
+    <string name="unit_pcs">%1$d St.</string>
+
+    <string name="row_gel_title">Kakerlaken-Gel</string>
+    <string name="hint_gel">Richtwert %1$d g pro 100 m² bei %2$sem Befall</string>
+    <string name="row_points_gel">Gel-Auftragspunkte</string>
+    <string name="hint_points_gel">alle ~2 m entlang des Umfangs (~%1$d m)</string>
+    <string name="row_solution">Spritzbrühe (Arbeitslösung)</string>
+    <string name="hint_solution">%1$d ml/m²; Konzentrat — laut Etikett (meist 0,5–1%%)</string>
+    <string name="row_glue">Klebefallen (Monitoring)</string>
+    <string name="hint_glue">1 Falle pro %1$d m²</string>
+    <string name="row_points">Köderpunkte</string>
+    <string name="hint_points_rat">alle ~8 m entlang des Umfangs, an Bauen und Wegen</string>
+    <string name="hint_points_mouse">alle ~4 m entlang des Umfangs, an den Wänden</string>
+    <string name="row_bait_rat">Rodentizid (Erstausbringung)</string>
+    <string name="hint_bait_rat">100 g Köderkörner oder Blöcke pro Punkt</string>
+    <string name="row_bait_mouse">Rodentizid (Erstausbringung)</string>
+    <string name="hint_bait_mouse">25 g Köder pro Punkt</string>
+    <string name="row_containers_rat">Köderboxen (Stationen)</string>
+    <string name="hint_containers_rat">eine Box pro Punkt</string>
+    <string name="row_containers_mouse">Boxen / Stationen</string>
+    <string name="hint_containers_mouse">eine pro Punkt</string>
+
+    <string name="traps_title">Fallen-Datenbank</string>
+    <string name="traps_total">Insgesamt platziert: %1$d · Tippen Sie auf eine Falle, um Status oder Notiz zu ändern</string>
+    <string name="filter_all_types">Alle Typen</string>
+    <string name="filter_any_status">Jeder Status</string>
+    <string name="traps_empty">Noch keine Fallen platziert. Öffnen Sie einen Objektplan und wählen Sie das Werkzeug „Markierung“.</string>
+    <string name="installed">Platziert: %1$s</string>
+    <string name="status_active">Aktiv</string>
+    <string name="status_replace">Zu ersetzen</string>
+    <string name="status_removed">Entfernt</string>
+    <string name="dlg_note">Notiz</string>
+</resources>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_objects">Objects</string>
+    <string name="tab_dosage">Calc</string>
+    <string name="tab_traps">Traps</string>
+    <string name="back">Back</string>
+    <string name="fab_object">Object</string>
+
+    <string name="dlg_new_object">New object</string>
+    <string name="field_name">Name</string>
+    <string name="field_address">Address</string>
+    <string name="btn_create">Create</string>
+    <string name="dlg_delete_object_title">Delete object?</string>
+    <string name="dlg_delete_object_text">“%1$s” and all its plans and traps will be deleted.</string>
+    <string name="no_address">no address</string>
+    <string name="list_empty">No objects yet.\nTap “+ Object” to create a plan.</string>
+    <string name="card_summary">Floors: %1$d · Traps: %2$d</string>
+    <string name="plan_header_hint">Draw the plan with your finger · “Landmark” — labels · “Marker” — traps and holes</string>
+
+    <string name="mt_gel">Cockroach gel</string>
+    <string name="mt_glue">Glue trap</string>
+    <string name="mt_bait">Bait station</string>
+    <string name="mt_hole">Hole / rodent path</string>
+
+    <string name="pest_cockroach">Cockroaches</string>
+    <string name="pest_rat">Rats</string>
+    <string name="pest_mouse">Mice</string>
+    <string name="level_low">Low</string>
+    <string name="level_medium">Medium</string>
+    <string name="level_high">High</string>
+    <string name="lbl_pest">Pest</string>
+    <string name="lbl_level">Infestation</string>
+    <string name="field_area">Room area, m²</string>
+    <string name="area_prompt">Enter the room area to get the calculation.</string>
+    <string name="dosage_disclaimer">The calculation is approximate, based on typical application rates. Follow the product label and current sanitary regulations.</string>
+
+    <string name="unit_g">%1$d g</string>
+    <string name="unit_kg">%1$s kg</string>
+    <string name="unit_l">%1$s L</string>
+    <string name="unit_pcs">%1$d pcs</string>
+
+    <string name="row_gel_title">Cockroach gel</string>
+    <string name="hint_gel">rate of %1$d g per 100 m² at %2$s infestation</string>
+    <string name="row_points_gel">Gel application points</string>
+    <string name="hint_points_gel">every ~2 m along the perimeter (~%1$d m)</string>
+    <string name="row_solution">Emulsion working solution</string>
+    <string name="hint_solution">%1$d ml/m²; concentrate — per product label (usually 0.5–1%%)</string>
+    <string name="row_glue">Glue traps (monitoring)</string>
+    <string name="hint_glue">1 trap per %1$d m²</string>
+    <string name="row_points">Bait points</string>
+    <string name="hint_points_rat">every ~8 m along the perimeter, near burrows and runways</string>
+    <string name="hint_points_mouse">every ~4 m along the perimeter, along the walls</string>
+    <string name="row_bait_rat">Rodenticide (first placement)</string>
+    <string name="hint_bait_rat">100 g of grain bait or blocks per point</string>
+    <string name="row_bait_mouse">Rodenticide (first placement)</string>
+    <string name="hint_bait_mouse">25 g of bait per point</string>
+    <string name="row_containers_rat">Bait containers (stations)</string>
+    <string name="hint_containers_rat">one container per point</string>
+    <string name="row_containers_mouse">Containers / stations</string>
+    <string name="hint_containers_mouse">one per point</string>
+
+    <string name="traps_title">Trap database</string>
+    <string name="traps_total">Total placed: %1$d · Tap a trap to change its status or note</string>
+    <string name="filter_all_types">All types</string>
+    <string name="filter_any_status">Any status</string>
+    <string name="traps_empty">No traps placed yet. Open an object plan and select the “Marker” tool.</string>
+    <string name="installed">Installed: %1$s</string>
+    <string name="status_active">Active</string>
+    <string name="status_replace">To replace</string>
+    <string name="status_removed">Removed</string>
+    <string name="dlg_note">Note</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tool_draw">✏️ 绘制</string>
+    <string name="tool_label">🔖 标注</string>
+    <string name="tool_marker">📍 标记</string>
+    <string name="add_floor">+楼层</string>
+    <string name="floor_name">第 %1$d 层</string>
+    <string name="undo_line">撤销线条</string>
+    <string name="delete_floor_cd">删除楼层</string>
+    <string name="label_dialog_title">标注名称</string>
+    <string name="label_dialog_hint">例如：厨房、入口、仓库</string>
+    <string name="btn_add">添加</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_save">保存</string>
+    <string name="btn_delete">删除</string>
+    <string name="edit_label_title">标注</string>
+    <string name="delete_floor_title">删除楼层？</string>
+    <string name="delete_floor_text">“%1$s”及其所有标记将被删除。</string>
+</resources>

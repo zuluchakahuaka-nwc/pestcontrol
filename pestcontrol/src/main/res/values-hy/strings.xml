@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_objects">Օբյեկտներ</string>
+    <string name="tab_dosage">Հաշվարկ</string>
+    <string name="tab_traps">Ծուղակներ</string>
+    <string name="back">Հետ</string>
+    <string name="fab_object">Օբյեկտ</string>
+
+    <string name="dlg_new_object">Նոր օբյեկտ</string>
+    <string name="field_name">Անվանում</string>
+    <string name="field_address">Հասցե</string>
+    <string name="btn_create">Ստեղծել</string>
+    <string name="dlg_delete_object_title">Ջնջե՞լ օբյեկտը</string>
+    <string name="dlg_delete_object_text">«%1$s» օբյեկտն իր բոլոր հատակագծերով և ծուղակներով կջնջվի։</string>
+    <string name="no_address">առանց հասցեի</string>
+    <string name="list_empty">Օբյեկտներ դեռ չկան։\nՀատակագիծ ստեղծելու համար սեղմեք «+ Օբյեկտ»։</string>
+    <string name="card_summary">Հարկեր՝ %1$d · Ծուղակներ՝ %2$d</string>
+    <string name="plan_header_hint">Հատակագիծը գծեք մատով · «Կողմնորոշիչ» — պիտակներ · «Նշիչ» — ծուղակներ և բներ</string>
+
+    <string name="mt_gel">Ժել խավարասերների դեմ</string>
+    <string name="mt_glue">Կպչուն ծուղակ</string>
+    <string name="mt_bait">Խարակի կենտրոն</string>
+    <string name="mt_hole">Բույ / կրծողների ուղի</string>
+
+    <string name="pest_cockroach">Խավարասերներ</string>
+    <string name="pest_rat">Առնետներ</string>
+    <string name="pest_mouse">Մկներ</string>
+    <string name="level_low">Ցածր</string>
+    <string name="level_medium">Միջին</string>
+    <string name="level_high">Բարձր</string>
+    <string name="lbl_pest">Վնասատու</string>
+    <string name="lbl_level">Վարակվածություն</string>
+    <string name="field_area">Տարածք, մ²</string>
+    <string name="area_prompt">Հաշվարկ ստանալու համար մուտքագրեք տարածքը։</string>
+    <string name="dosage_disclaimer">Հաշվարկը մոտավոր է՝ ըստ սովորական ծախսի նորմաների։ ղեկավարվեք պատրաստակի ցուցումներով և գործող սանիտարական կանոններով։</string>
+
+    <string name="unit_g">%1$d գ</string>
+    <string name="unit_kg">%1$s կգ</string>
+    <string name="unit_l">%1$s լ</string>
+    <string name="unit_pcs">%1$d հատ</string>
+
+    <string name="row_gel_title">Ժել խավարասերների դեմ</string>
+    <string name="hint_gel">%2$s վարակվածության դեպքում 100 մ²-ի համար %1$d գ</string>
+    <string name="row_points_gel">Ժելի քսման կետեր</string>
+    <string name="hint_points_gel">պարագծով ամեն ~2 մ (~%1$d մ)</string>
+    <string name="row_solution">Էմուլսիայի աշխատանքային լուծույթ</string>
+    <string name="hint_solution">%1$d մլ/մ²; կոնցենտրատը՝ ըստ պատրաստակի ցուցումների (սովորաբար 0,5–1%%)</string>
+    <string name="row_glue">Կպչուն ծուղակներ (հսկում)</string>
+    <string name="hint_glue">1 ծուղակ՝ %1$d մ²-ի համար</string>
+    <string name="row_points">Խարակի կետեր</string>
+    <string name="hint_points_rat">պարագծով ամեն ~8 մ՝ բների և ուղիների մոտ</string>
+    <string name="hint_points_mouse">պարագծով ամեն ~4 մ՝ պատերի երկայնքով</string>
+    <string name="row_bait_rat">Ռոդենտիցիդ (առաջին դնումը)</string>
+    <string name="hint_bait_rat">100 գ հացահատիկի խարակ կամ բլոկ՝ մեկ կետի համար</string>
+    <string name="row_bait_mouse">Ռոդենտիցիդ (առաջին դնումը)</string>
+    <string name="hint_bait_mouse">25 գ խարակ՝ մեկ կետի համար</string>
+    <string name="row_containers_rat">Խարակի կենտրոններ</string>
+    <string name="hint_containers_rat">մեկ կենտրոն՝ մեկ կետի համար</string>
+    <string name="row_containers_mouse">Կենտրոններ / կոնտեյներներ</string>
+    <string name="hint_containers_mouse">մեկական՝ մեկ կետի համար</string>
+
+    <string name="traps_title">Ծուղակների բազա</string>
+    <string name="traps_total">Ընդամենը դրված՝ %1$d · Սեղմեք ծուղակի վրա՝ կարգավիճակը կամ նշումը փոխելու համար</string>
+    <string name="filter_all_types">Բոլոր տեսակները</string>
+    <string name="filter_any_status">Ցանկացած կարգավիճակ</string>
+    <string name="traps_empty">Ծուղակներ դեռ չկան։ Բացեք օբյեկտի հատակագիծը և ընտրեք «Նշիչ» գործիքը։</string>
+    <string name="installed">Դրված է՝ %1$s</string>
+    <string name="status_active">Ակտիվ</string>
+    <string name="status_replace">Ենթակա փոխարինման</string>
+    <string name="status_removed">Հանված</string>
+    <string name="dlg_note">Նշում</string>
+</resources>

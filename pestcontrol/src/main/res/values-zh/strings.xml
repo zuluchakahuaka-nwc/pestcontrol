@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_objects">对象</string>
+    <string name="tab_dosage">计算</string>
+    <string name="tab_traps">捕虫点</string>
+    <string name="back">返回</string>
+    <string name="fab_object">对象</string>
+
+    <string name="dlg_new_object">新建对象</string>
+    <string name="field_name">名称</string>
+    <string name="field_address">地址</string>
+    <string name="btn_create">创建</string>
+    <string name="dlg_delete_object_title">删除对象？</string>
+    <string name="dlg_delete_object_text">“%1$s”及其所有平面图和捕虫点将被删除。</string>
+    <string name="no_address">无地址</string>
+    <string name="list_empty">暂无对象。\n点击“+ 对象”创建平面图。</string>
+    <string name="card_summary">楼层数：%1$d · 捕虫点：%2$d</string>
+    <string name="plan_header_hint">用手指绘制平面图 ·“标注”— 文字标签 ·“标记”— 捕虫点和鼠洞</string>
+
+    <string name="mt_gel">蟑螂胶饵</string>
+    <string name="mt_glue">粘捕板</string>
+    <string name="mt_bait">毒饵站</string>
+    <string name="mt_hole">鼠洞 / 鼠道</string>
+
+    <string name="pest_cockroach">蟑螂</string>
+    <string name="pest_rat">大鼠</string>
+    <string name="pest_mouse">小鼠</string>
+    <string name="level_low">轻度</string>
+    <string name="level_medium">中度</string>
+    <string name="level_high">重度</string>
+    <string name="lbl_pest">害虫</string>
+    <string name="lbl_level">侵害程度</string>
+    <string name="field_area">房间面积，m²</string>
+    <string name="area_prompt">请输入房间面积以获取计算结果。</string>
+    <string name="dosage_disclaimer">计算为估算值，基于典型用量标准。请遵循产品标签和现行卫生规范。</string>
+
+    <string name="unit_g">%1$d 克</string>
+    <string name="unit_kg">%1$s 千克</string>
+    <string name="unit_l">%1$s 升</string>
+    <string name="unit_pcs">%1$d 个</string>
+
+    <string name="row_gel_title">蟑螂胶饵</string>
+    <string name="hint_gel">%2$s侵害程度下每100 m²用量 %1$d 克</string>
+    <string name="row_points_gel">胶饵施药点</string>
+    <string name="hint_points_gel">沿周边每隔约2米（周长约%1$d米）</string>
+    <string name="row_solution">乳油工作液</string>
+    <string name="hint_solution">%1$d 毫升/平方米；原药用量见产品标签（通常0.5–1%%）</string>
+    <string name="row_glue">粘捕板（监测）</string>
+    <string name="hint_glue">每%1$d m²放置1个</string>
+    <string name="row_points">投饵点</string>
+    <string name="hint_points_rat">沿周边每隔约8米，靠近鼠洞和鼠道</string>
+    <string name="hint_points_mouse">沿周边每隔约4米，沿墙布放</string>
+    <string name="row_bait_rat">杀鼠剂（首次投放）</string>
+    <string name="hint_bait_rat">每点投放谷物毒饵或蜡块100克</string>
+    <string name="row_bait_mouse">杀鼠剂（首次投放）</string>
+    <string name="hint_bait_mouse">每点投放毒饵25克</string>
+    <string name="row_containers_rat">毒饵站</string>
+    <string name="hint_containers_rat">每点1个毒饵站</string>
+    <string name="row_containers_mouse">毒饵站</string>
+    <string name="hint_containers_mouse">每点1个</string>
+
+    <string name="traps_title">捕虫点数据库</string>
+    <string name="traps_total">共布放：%1$d · 点击捕虫点可修改状态或备注</string>
+    <string name="filter_all_types">全部类型</string>
+    <string name="filter_any_status">任意状态</string>
+    <string name="traps_empty">尚未布放捕虫点。请打开对象平面图并选择“标记”工具。</string>
+    <string name="installed">布放日期：%1$s</string>
+    <string name="status_active">有效</string>
+    <string name="status_replace">需更换</string>
+    <string name="status_removed">已撤除</string>
+    <string name="dlg_note">备注</string>
+</resources>
