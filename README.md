@@ -27,8 +27,6 @@ Android-приложение (Kotlin + Jetpack Compose) для сотрудни�
 - E2E (нужен эмулятор/устройство): `gradlew.bat connectedDebugAndroidTest` — 7 сценариев: объект → ловушка → база, расчёт, рисование + undo, лейблы, этажи, повторный тап-удаление маркера, смена статуса ловушки. Если UTP-раннер падает с gRPC-ошибкой:
   `adb shell am instrument -w com.firebug.pest.test/androidx.test.runner.AndroidJUnitRunner` после установки debug- и androidTest-APK.
 
-Правила работы с репозиторием для агентов — в [AGENTS.md](AGENTS.md).
-
 ## Данные
 
 Локально, в JSON: `filesDir/plan_objects.json`.
