@@ -14,4 +14,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "pestcontrol"
-include(":common", ":pestcontrol")
+include(":pestcontrol", ":common")
